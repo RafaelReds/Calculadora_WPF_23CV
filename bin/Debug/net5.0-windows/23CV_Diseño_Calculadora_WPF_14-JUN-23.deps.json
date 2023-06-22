@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "23CV_Diseño_Calculadora_WPF_14-JUN-23/1.0.0": {
+        "runtime": {
+          "23CV_Diseño_Calculadora_WPF_14-JUN-23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23CV_Diseño_Calculadora_WPF_14-JUN-23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
